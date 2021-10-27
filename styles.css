@@ -1,0 +1,48 @@
+html, body {
+    background: aqua;
+}
+
+
+@media only screen and (max-width: 760px) {
+    backgroundhtml, body
+    background-color: red;
+    color: black
+}
+
+
+section {
+    margin: 3em 1em;
+    margin: 3rem 1rem;
+    max-width: 200px;
+    display: inline
+}
+article {
+  font-size: 1em
+}
+
+article {
+    background-color: mediumpurple;
+    font-family: sana-serif;
+}
+
+article {
+    background: color: green;
+    border: 1em dashed black;
+    border-radius: 25px;
+    max-height: 300px;
+    width: auto;
+    padding: 15px 2em 30px 3em;
+}
+
+p {
+    color: red;
+    font-size: 1em;
+}
+
+.classSelector {
+    color: red;
+}
+
+#idSelect {
+    color: green;
+}
